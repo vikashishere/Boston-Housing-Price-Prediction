@@ -1,5 +1,7 @@
 # Boston-Housing-Price-Prediction
-This is a basic Machine Learning project where we are trying to solve a regression problem using a Linear Regression model from sklearn.
+
+# Overview
+* This is a basic Machine Learning project where we are trying to solve a regression problem using a Linear Regression model from sklearn.
 
 Origin: This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
 Creator: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
