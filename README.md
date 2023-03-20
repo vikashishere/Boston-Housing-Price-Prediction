@@ -11,3 +11,5 @@
 
 ## Tasks Performed
 * Statistical Analysis, Feature Engineering, Feature Selection, Data Visualization, Model training.
+
+![courage 3](https://user-images.githubusercontent.com/86545677/226271365-8c193de5-4ff0-4488-9138-9ea9748c6087.png)
